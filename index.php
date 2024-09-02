@@ -21,7 +21,7 @@
 </html>
 
 <?php
-$item = "pizza"
+$item = "pizza";
 $price = 8.99;
 $quantity = $_POST["quantity"];
 $total = null;
